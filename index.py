@@ -69,7 +69,8 @@ async def on_message(message):
                 try:
                     guess = await client.wait_for('message', timeout=60.0, check=check)
                 except asyncio.TimeoutError:
-                    await msg(f"Sorry, you took too long. It was {linesdata[number]['Line']}.")
+                    await msg(f"Sorry, you took too long. It was `\"{linesdata[number]['Line']}\"`\nWe will cancel your game due to inactivity.")
+                    break
 
                 accuracy = string_similarity(linesdata[number]['Line'], str(guess.content))
 
