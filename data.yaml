@@ -1,0 +1,20 @@
+Data:
+  Lines:
+    - Char: Lester
+      Line: I'm hungry. Is there anything in the kitchen?
+    - Char: Mordred
+      Line: I suppose my aunts eat. Let's look.
+    - Char: Millie
+      Line: There's no one here.
+    - Char: Gertie
+      Line: I could have sworn I heard voices.
+    - Char: Millie
+      Line: It's all this excitement. It's making us jumpy.
+    - Char: Gertie
+      Line: Perhaps we should check on the treasure.
+    - Char: Millie
+      Line: We really must get Charlie to bury it. It's such a nuisance having it lying around.
+    - Char: Gertie 
+      Line: It is. *(Looks in seat.)* Oh dear.
+    - Char: Millie
+      Line: What is it dear?
