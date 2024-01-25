@@ -20,3 +20,86 @@ Data:
       Line: It is. *(Looks in seat.)* Oh dear.
     - Char: Millie
       Line: What is it dear?
+
+    - Char: Gertie
+      Line: Well, you'll have to talk to Officer McNealy about it, then. He's taking care of the whole matter. *(Tries to shut door again.)*
+    - Char: Klick
+      Line: \*(Holds door open)* Ma'am, we aren't here about... that matter.
+    - Char: Gertie
+      Line: Yes, well, Officer McNealy knows all about it, so you'll have to see him about it.
+    - Char: Millie
+      Line: Who is it, Gertie?
+    - Char: Gertie
+      Line: It's the police about that business with Charlie.
+    - Char: Millie
+      Line: Oh, heavens, I thought that was all taken care of.
+    - Char: Gertie
+      Line: That's what I've been telling them, but they won't go away.
+    - Char: Millie
+      Line: For goodness sake.
+    - Char: Harold
+      Line: Who is it, Aunt Millie?
+    - Char: Gertie
+      Line: It's the police again.
+    - Char: Millie
+      Line: That business about Charlie.
+    - Char: Klick
+      Line: FBI.
+    - Char: Gertie
+      Line: I told them officer McNealy was taking care of it.
+    - Char: Millie
+      Line: Oh, Harold, you've dropped the good dishes.
+    - Char: Harold
+      Line: The FBI?
+    - Char: Gertie
+      Line: I told them to see Officer McNealy, but they won't go away.
+    - Char: Millie
+      Line: Smashed to bits...
+    - Char: Harold
+      Line: And they're here about Uncle Charlie?
+    - Char: Gertie
+      Line: Yes.
+    - Char: Klack
+      Line: No!
+    - Char: Millie
+      Line: I'll get a broom.
+    - Char: Harold
+      Line: The FBI?
+    - Char: Gertie
+      Line: It's that awful business about Charlie?
+    - Char: Klick
+      Line: Yes!
+    - Char: Klack
+      Line: No! I mean, yes!
+    - Char: Harold
+      Line: Hold it! Aunt Gertie, stop pushing on the door. Are you the FBI?
+    - Char: Klick
+      Line: Yes.
+    - Char: Harold
+      Line: Aunt Gertie, you had better let them in.
+    - Char: Gertie
+      Line: I don't see why.
+    - Char: Klack
+      Line: Please, ma'am, we just want to ask you a few questions.
+    - Char: Harold
+      Line: What's all this about? Aunt Gertie, please, let them in.
+    - Char: Klack
+      Line: Please ma'am, let us in.
+    - Char: Gertie
+      Line: \*(Releases door.)* Harold, what's this all about?
+    - Char: Klick
+      Line: \*(Enters, followed by Klack.)* You may have heard about the bank robbery this morning?
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
