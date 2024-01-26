@@ -89,6 +89,76 @@ Data:
       Line: \*(Releases door.)* Harold, what's this all about?
     - Char: Klick
       Line: \*(Enters, followed by Klack.)* You may have heard about the bank robbery this morning?
+    - Char: Gertie
+      Line: Is that all? Officer McNealy told us all about that.
+    - Char: Harold
+      Line: Aunt Gertie, I think there's something you should know.
+    - Char: Klick
+      Line: Then you know?
+    - Char: Millie
+      Line: Know what?
+    - Char: Gertie
+      Line: About the bank robbery.
+    - Char: Millie
+      Line: Oh yes, the bank robbery. Officer McNealy told us all about that.
+    - Char: Klack
+      Line: There is an aspect of the case that may concern you.
+    - Char: Harold
+      Line: Aunt Millie, Aunt Gertie, there's something I should have told you.
+    - Char: Gertie
+      Line: Told us? What is it, Harold, dear?
+    - Char: Charlie
+      Line: \*(Enters up left, sees FBI, gets set and charges.)* Avast, you scurvy knaves! *(Everyone jumps. Agents reach under the jackets as if for guns.)*
+    - Char: Millie
+      Line: Oh, Charlie, for goodness sakes, not now.
+    - Char: Gertie
+      Line: Charlie, these ladies are policemen.
+    - Char: Charlie
+      Line: They look more like thieving...
+    - Char: Millie
+      Line: Charlie!
+    - Char: Gertie
+      Line: Now you be nice to these ladies.
+    - Char: Charlie
+      Line: Arrgh.
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
     - Char: 
       Line: 
     - Char: 
