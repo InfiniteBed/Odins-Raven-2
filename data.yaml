@@ -219,36 +219,36 @@ Data:
       Line: Why, no.
     - Char: Millie
       Line: Not for years.
-    - Char: 
-      Line: 
-    - Char: 
-      Line: 
-    - Char: 
-      Line: 
-    - Char: 
-      Line: 
-    - Char: 
-      Line: 
-    - Char: 
-      Line: 
-    - Char: 
-      Line: 
-    - Char: 
-      Line: 
-    - Char: 
-      Line: 
-    - Char: 
-      Line: 
-    - Char: 
-      Line: 
-    - Char: 
-      Line: 
-    - Char: 
-      Line: 
-    - Char: 
-      Line: 
-    - Char: 
-      Line: 
+    - Char: Gertie
+      Line: He never liked us, you know.
+    - Char: Millie
+      Line: No, he never did. I've always thought that if he has just settled down...
+    - Char: Gertie 
+      Line: You know, here in town near family...
+    - Char: Millie
+      Line: That he would have turned out all right.
+    - Char: Gertie
+      Line: But he had to go traipsing around the country.
+    - Char: Millie
+      Line: And look what it got him.
+    - Char: Gertie
+      Line: It's really too sad, you know.
+    - Char: Klick
+      Line: Yes ma'am. We think he may still try to contact you.
+    - Char: Harold 
+      Line: But what's the connection between Mordred and the bank robbery?
+    - Char: Klack
+      Line: We think he robbed the bank.
+    - Char: Klick
+      Line: He would need ready cash, and he has robbed banks before.
+    - Char: Klack
+      Line: If he does show up, you'll let us know? *(Gertie, Millie, and Harold nod.)* Here's our card. *(Both agents take out a card and hand it to Millie and Gertie.)* Oh, I almost forgot...
+    - Char: Gertie
+      Line: Yes?
+    - Char: Millie
+      Line: Yes
+    - Char: Klick
+      Line: Here's a picture of him just before
     - Char: 
       Line: 
     - Char: 
