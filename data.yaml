@@ -121,16 +121,104 @@ Data:
       Line: Now you be nice to these ladies.
     - Char: Charlie
       Line: Arrgh.
-    - Char: 
-      Line: 
-    - Char: 
-      Line: 
-    - Char: 
-      Line: 
-    - Char: 
-      Line: 
-    - Char: 
-      Line: 
+    - Char: Harold
+      Line: Officers, I was going to deal with the money.
+    - Char: Millie
+      Line: He really meant no harm.
+    - Char: Gertie
+      Line: He wouldn't hurt a flea.
+    - Char: Harold
+      Line: It's just that I couldn't bear to turn him in.
+    - Char: Millie
+      Line: You say you're here about the bank robbery?
+    - Char: Klick
+      Line: Yes ma'am.
+    - Char: Harold
+      Line: Hes never done anything like this before.
+    - Char: Klack
+      Line: We believe there might be a connection to you.
+    - Char: Harold
+      Line: I don't even know when he got out of the house.
+    - Char: Gertie
+      Line: But whatever could the connection be? We don't rob banks.
+    - Char: Millie
+      Line: No, robbing banks isn't our cup of tea at all.
+    - Char: Harold
+      Line: In fact, the first I knew of it was when I accidentally opened the window seat.
+    - Char: Klick
+      Line: \*(Not paying any attention to Harold.)* Do you know a one... *(Opens notebook and reads.)* ...Mordred Peabody?
+    - Char: Gertie
+      Line: Mordred!
+    - Char: Millie
+      Line: Mordred!
+    - Char: Harold
+      Line: Mordred?
+    - Char: Klack
+      Line: Yes, Mordred Peabody.
+    - Char: Gertie
+      Line: We haven't heard from him in years.
+    - Char: Millie
+      Line: Why, the last we heard anything about him he was in prison.
+    - Char: Gertie
+      Line: Such an embarrassment.
+    - Char: Millie
+      Line: A blotch on the Peabody name.
+    - Char: Gertie 
+      Line: Embezzlement, was it?
+    - Char: Millie
+      Line: I thought it was extortion.
+    - Char: Klick
+      Line: Both, and a lot more, besides. He was serving time for embezzlement, extortion, racketeering, bank robbery...
+    - Char: Millie
+      Line: You see, Gertie, bank robbery... the lowest form of larceny.
+    - Char: Gertie
+      Line: How could a Peabody stoop so low?
+    - Char: Millie
+      Line: Officer, we're ashamed.
+    - Char: Gertie
+      Line: I assure you, he's nothing like the rest of the family.
+    - Char: Millie
+      Line: Harold, what were you trying to say?
+    - Char: Harold
+      Line: Uh... nothing. What were you saying about Mordred?
+    - Char: Gertie
+      Line: Well, just that...
+    - Char: Harold
+      Line: No, what was it about Mordred and the bank robbbery this morning?
+    - Char: Klack
+      Line: Your... brother?
+    - Char: Harold
+      Line: Cousin.
+    - Char: Millie
+      Line: Well, Mordred is my late brother's son.
+    - Char: Klick
+      Line: Right... well, your...
+    - Char: Millie
+      Line: Nephew.
+    - Char: Harold
+      Line: Cousin.
+    - Char: Klack
+      Line: Right. He's escaped from prison.
+    - Char: Gertie
+      Line: Oh dear!
+    - Char: Klick
+      Line: And since you're the only family he has left...
+    - Char: Millie
+      Line: That's true, we are.
+    - Char: Klick
+      Line: We thought that because you were his only living relatives, he might make his way here.
+    - Char: Klack
+      Line: Has he?
+    - Char: Harold
+      Line: Has he what?
+    - Char: Klick
+      Line: Made his way here?
+    - Char: Klack
+      Line: Have you seen him?
+    - Char: Gertie
+      Line: Why, no.
+    - Char: Millie
+      Line: Not for years.
     - Char: 
       Line: 
     - Char: 
