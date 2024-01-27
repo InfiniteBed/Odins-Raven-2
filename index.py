@@ -56,7 +56,7 @@ async def on_message(message):
                 # Print Lines
                 messageblock = '```'
                 for x in range(-3, 0):
-                    messageblock += (f'{linesdata[number+x]['Char']}: {linesdata[number+x]['Line']}\n') 
+                    messageblock += (f"{linesdata[number+x]['Char']}: {linesdata[number+x]['Line']}\n") 
                 messageblock += '```'
                 await msg(messageblock)
 
@@ -77,7 +77,7 @@ async def on_message(message):
                 if accuracy >= 80:
                     await message.channel.send(f'You are right! You got it within {accuracy}% accuracy!')
                 else:
-                    await message.channel.send(f'Oops. It is actually "{linesdata[number]['Line']}".')
+                    await message.channel.send(f"Oops. It is actually \"{linesdata[number]['Line']}\".")
 
                 #Reset Random Number
                 number = prevrng
