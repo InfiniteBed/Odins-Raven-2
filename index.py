@@ -37,6 +37,12 @@ async def on_message(message):
 
     if message.content.startswith('$hello'):
         await msg('Hello!')
+
+    if message.content.lower().startswith('say') and message.author.id == 867261583871836161:
+        tosend = ''
+        for x in range(1, (len((message.content).split())-1) + 1):
+            tosend += (f' {message.content.split()[x]}')
+        await msg((f'{tosend}!').strip().capitalize())
     
     if message.content.startswith('Scene 2'):  
         actor = str(message.content).split()[2]
