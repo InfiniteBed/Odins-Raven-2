@@ -20,3 +20,244 @@ Data:
       Line: It is. *(Looks in seat.)* Oh dear.
     - Char: Millie
       Line: What is it dear?
+
+    - Char: Gertie
+      Line: Well, you'll have to talk to Officer McNealy about it, then. He's taking care of the whole matter. *(Tries to shut door again.)*
+    - Char: Klick
+      Line: \*(Holds door open)* Ma'am, we aren't here about... that matter.
+    - Char: Gertie
+      Line: Yes, well, Officer McNealy knows all about it, so you'll have to see him about it.
+    - Char: Millie
+      Line: Who is it, Gertie?
+    - Char: Gertie
+      Line: It's the police about that business with Charlie.
+    - Char: Millie
+      Line: Oh, heavens, I thought that was all taken care of.
+    - Char: Gertie
+      Line: That's what I've been telling them, but they won't go away.
+    - Char: Millie
+      Line: For goodness sake.
+    - Char: Harold
+      Line: Who is it, Aunt Millie?
+    - Char: Gertie
+      Line: It's the police again.
+    - Char: Millie
+      Line: That business about Charlie.
+    - Char: Klick
+      Line: FBI.
+    - Char: Gertie
+      Line: I told them officer McNealy was taking care of it.
+    - Char: Millie
+      Line: Oh, Harold, you've dropped the good dishes.
+    - Char: Harold
+      Line: The FBI?
+    - Char: Gertie
+      Line: I told them to see Officer McNealy, but they won't go away.
+    - Char: Millie
+      Line: Smashed to bits...
+    - Char: Harold
+      Line: And they're here about Uncle Charlie?
+    - Char: Gertie
+      Line: Yes.
+    - Char: Klack
+      Line: No!
+    - Char: Millie
+      Line: I'll get a broom.
+    - Char: Harold
+      Line: The FBI?
+    - Char: Gertie
+      Line: It's that awful business about Charlie?
+    - Char: Klick
+      Line: Yes!
+    - Char: Klack
+      Line: No! I mean, yes!
+    - Char: Harold
+      Line: Hold it! Aunt Gertie, stop pushing on the door. Are you the FBI?
+    - Char: Klick
+      Line: Yes.
+    - Char: Harold
+      Line: Aunt Gertie, you had better let them in.
+    - Char: Gertie
+      Line: I don't see why.
+    - Char: Klack
+      Line: Please, ma'am, we just want to ask you a few questions.
+    - Char: Harold
+      Line: What's all this about? Aunt Gertie, please, let them in.
+    - Char: Klack
+      Line: Please ma'am, let us in.
+    - Char: Gertie
+      Line: \*(Releases door.)* Harold, what's this all about?
+    - Char: Klick
+      Line: \*(Enters, followed by Klack.)* You may have heard about the bank robbery this morning?
+    - Char: Gertie
+      Line: Is that all? Officer McNealy told us all about that.
+    - Char: Harold
+      Line: Aunt Gertie, I think there's something you should know.
+    - Char: Klick
+      Line: Then you know?
+    - Char: Millie
+      Line: Know what?
+    - Char: Gertie
+      Line: About the bank robbery.
+    - Char: Millie
+      Line: Oh yes, the bank robbery. Officer McNealy told us all about that.
+    - Char: Klack
+      Line: There is an aspect of the case that may concern you.
+    - Char: Harold
+      Line: Aunt Millie, Aunt Gertie, there's something I should have told you.
+    - Char: Gertie
+      Line: Told us? What is it, Harold, dear?
+    - Char: Charlie
+      Line: \*(Enters up left, sees FBI, gets set and charges.)* Avast, you scurvy knaves! *(Everyone jumps. Agents reach under the jackets as if for guns.)*
+    - Char: Millie
+      Line: Oh, Charlie, for goodness sakes, not now.
+    - Char: Gertie
+      Line: Charlie, these ladies are policemen.
+    - Char: Charlie
+      Line: They look more like thieving...
+    - Char: Millie
+      Line: Charlie!
+    - Char: Gertie
+      Line: Now you be nice to these ladies.
+    - Char: Charlie
+      Line: Arrgh.
+    - Char: Harold
+      Line: Officers, I was going to deal with the money.
+    - Char: Millie
+      Line: He really meant no harm.
+    - Char: Gertie
+      Line: He wouldn't hurt a flea.
+    - Char: Harold
+      Line: It's just that I couldn't bear to turn him in.
+    - Char: Millie
+      Line: You say you're here about the bank robbery?
+    - Char: Klick
+      Line: Yes ma'am.
+    - Char: Harold
+      Line: Hes never done anything like this before.
+    - Char: Klack
+      Line: We believe there might be a connection to you.
+    - Char: Harold
+      Line: I don't even know when he got out of the house.
+    - Char: Gertie
+      Line: But whatever could the connection be? We don't rob banks.
+    - Char: Millie
+      Line: No, robbing banks isn't our cup of tea at all.
+    - Char: Harold
+      Line: In fact, the first I knew of it was when I accidentally opened the window seat.
+    - Char: Klick
+      Line: \*(Not paying any attention to Harold.)* Do you know a one... *(Opens notebook and reads.)* ...Mordred Peabody?
+    - Char: Gertie
+      Line: Mordred!
+    - Char: Millie
+      Line: Mordred!
+    - Char: Harold
+      Line: Mordred?
+    - Char: Klack
+      Line: Yes, Mordred Peabody.
+    - Char: Gertie
+      Line: We haven't heard from him in years.
+    - Char: Millie
+      Line: Why, the last we heard anything about him he was in prison.
+    - Char: Gertie
+      Line: Such an embarrassment.
+    - Char: Millie
+      Line: A blotch on the Peabody name.
+    - Char: Gertie 
+      Line: Embezzlement, was it?
+    - Char: Millie
+      Line: I thought it was extortion.
+    - Char: Klick
+      Line: Both, and a lot more, besides. He was serving time for embezzlement, extortion, racketeering, bank robbery...
+    - Char: Millie
+      Line: You see, Gertie, bank robbery... the lowest form of larceny.
+    - Char: Gertie
+      Line: How could a Peabody stoop so low?
+    - Char: Millie
+      Line: Officer, we're ashamed.
+    - Char: Gertie
+      Line: I assure you, he's nothing like the rest of the family.
+    - Char: Millie
+      Line: Harold, what were you trying to say?
+    - Char: Harold
+      Line: Uh... nothing. What were you saying about Mordred?
+    - Char: Gertie
+      Line: Well, just that...
+    - Char: Harold
+      Line: No, what was it about Mordred and the bank robbbery this morning?
+    - Char: Klack
+      Line: Your... brother?
+    - Char: Harold
+      Line: Cousin.
+    - Char: Millie
+      Line: Well, Mordred is my late brother's son.
+    - Char: Klick
+      Line: Right... well, your...
+    - Char: Millie
+      Line: Nephew.
+    - Char: Harold
+      Line: Cousin.
+    - Char: Klack
+      Line: Right. He's escaped from prison.
+    - Char: Gertie
+      Line: Oh dear!
+    - Char: Klick
+      Line: And since you're the only family he has left...
+    - Char: Millie
+      Line: That's true, we are.
+    - Char: Klick
+      Line: We thought that because you were his only living relatives, he might make his way here.
+    - Char: Klack
+      Line: Has he?
+    - Char: Harold
+      Line: Has he what?
+    - Char: Klick
+      Line: Made his way here?
+    - Char: Klack
+      Line: Have you seen him?
+    - Char: Gertie
+      Line: Why, no.
+    - Char: Millie
+      Line: Not for years.
+    - Char: Gertie
+      Line: He never liked us, you know.
+    - Char: Millie
+      Line: No, he never did. I've always thought that if he has just settled down...
+    - Char: Gertie 
+      Line: You know, here in town near family...
+    - Char: Millie
+      Line: That he would have turned out all right.
+    - Char: Gertie
+      Line: But he had to go traipsing around the country.
+    - Char: Millie
+      Line: And look what it got him.
+    - Char: Gertie
+      Line: It's really too sad, you know.
+    - Char: Klick
+      Line: Yes ma'am. We think he may still try to contact you.
+    - Char: Harold 
+      Line: But what's the connection between Mordred and the bank robbery?
+    - Char: Klack
+      Line: We think he robbed the bank.
+    - Char: Klick
+      Line: He would need ready cash, and he has robbed banks before.
+    - Char: Klack
+      Line: If he does show up, you'll let us know? *(Gertie, Millie, and Harold nod.)* Here's our card. *(Both agents take out a card and hand it to Millie and Gertie.)* Oh, I almost forgot...
+    - Char: Gertie
+      Line: Yes?
+    - Char: Millie
+      Line: Yes
+    - Char: Klick
+      Line: Here's a picture of him just before
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
+    - Char: 
+      Line: 
