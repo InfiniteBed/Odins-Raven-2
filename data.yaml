@@ -3,6 +3,7 @@ Data:
     - Scene 1:
     - Scene 2:
         - Char: Gertie
+<<<<<<< HEAD
           Line: "(Enters up center.) I'll get it. (Trips left and looks out window.) I wonder who that could be. (Opens front door.) Yes?"
         - Char: Klick
           Line: (Steps in down left.) Ma'am, I'm Agent Klick, FBI. (Shows badge.) This is my partner, Agent Klack. (Agent Klack steps in, flashes badge.)
@@ -26,6 +27,11 @@ Data:
           Line: Well, you'll have to talk to Officer McNealy about it, then. He's taking care of the whole matter. (Tries to shut door again.)
         - Char: Klick
           Line: (Holds door open) Ma'am, we aren't here about... that matter.
+=======
+          Line: Well, you'll have to talk to Officer McNealy about it, then. He's taking care of the whole matter. *(Tries to shut door again.)*
+        - Char: Klick
+          Line: \*(Holds door open)* Ma'am, we aren't here about... that matter.
+>>>>>>> 63cb82a1e5d384d079c6cf872ab843719be9b1bf
         - Char: Gertie
           Line: Yes, well, Officer McNealy knows all about it, so you'll have to see him about it.
         - Char: Millie
@@ -87,9 +93,15 @@ Data:
         - Char: Klack
           Line: Please ma'am, let us in.
         - Char: Gertie
+<<<<<<< HEAD
           Line: (Releases door.) Harold, what's this all about?
         - Char: Klick
           Line: (Enters, followed by Klack.) You may have heard about the bank robbery this morning?
+=======
+          Line: \*(Releases door.)* Harold, what's this all about?
+        - Char: Klick
+          Line: \*(Enters, followed by Klack.)* You may have heard about the bank robbery this morning?
+>>>>>>> 63cb82a1e5d384d079c6cf872ab843719be9b1bf
         - Char: Gertie
           Line: Is that all? Officer McNealy told us all about that.
         - Char: Harold
@@ -109,7 +121,11 @@ Data:
         - Char: Gertie
           Line: Told us? What is it, Harold, dear?
         - Char: Charlie
+<<<<<<< HEAD
           Line: (Enters up left, sees FBI, gets set and charges.) Avast, you scurvy knaves! (Everyone jumps. Agents reach under the jackets as if for guns.)
+=======
+          Line: \*(Enters up left, sees FBI, gets set and charges.)* Avast, you scurvy knaves! *(Everyone jumps. Agents reach under the jackets as if for guns.)*
+>>>>>>> 63cb82a1e5d384d079c6cf872ab843719be9b1bf
         - Char: Millie
           Line: Oh, Charlie, for goodness sakes, not now.
         - Char: Gertie
@@ -147,7 +163,11 @@ Data:
         - Char: Harold
           Line: In fact, the first I knew of it was when I accidentally opened the window seat.
         - Char: Klick
+<<<<<<< HEAD
           Line: (Not paying any attention to Harold.) Do you know a one... (Opens notebook and reads.) ...Mordred Peabody?
+=======
+          Line: \*(Not paying any attention to Harold.)* Do you know a one... *(Opens notebook and reads.)* ...Mordred Peabody?
+>>>>>>> 63cb82a1e5d384d079c6cf872ab843719be9b1bf
         - Char: Gertie
           Line: Mordred!
         - Char: Millie
@@ -243,6 +263,7 @@ Data:
         - Char: Klick
           Line: He would need ready cash, and he has robbed banks before.
         - Char: Klack
+<<<<<<< HEAD
           Line: If he does show up, you'll let us know? (Gertie, Millie, and Harold nod.) Here's our card. (Both agents take out a card and hand it to Millie and Gertie.) Oh, I almost forgot...
         - Char: Gertie
           Line: Yes?
@@ -614,6 +635,15 @@ Data:
           Line: We won't, dear. Goodbye.
         - Char: Gertie
           Line: I hope he settles down after he gets married. (They nod to one another knowingly. Blackout. Curtain)
+=======
+          Line: If he does show up, you'll let us know? *(Gertie, Millie, and Harold nod.)* Here's our card. *(Both agents take out a card and hand it to Millie and Gertie.)* Oh, I almost forgot...
+        - Char: Gertie
+          Line: Yes?
+        - Char: Millie
+          Line: Yes
+        - Char: Klick
+          Line: Here's a picture of him just before
+>>>>>>> 63cb82a1e5d384d079c6cf872ab843719be9b1bf
     - Scene 3:
         - Char: Mordred
           Line: What?
@@ -632,6 +662,10 @@ Data:
         - Char: Millie
           Line: We really must get Charlie to bury it. It's such a nuisance having it lying around.
         - Char: Gertie 
+<<<<<<< HEAD
           Line: It is. (Looks in seat.) Oh dear.
+=======
+          Line: It is. *(Looks in seat.)* Oh dear.
+>>>>>>> 63cb82a1e5d384d079c6cf872ab843719be9b1bf
         - Char: Millie
           Line: What is it dear?

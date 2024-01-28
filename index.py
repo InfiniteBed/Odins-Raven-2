@@ -26,10 +26,14 @@ with open("data.yaml", "r") as f:
 import discord
 from discord import app_commands
 from discord.ext import commands
+from discord import app_commands
+from discord.ext import commands
 import asyncio
 
 bot = commands.Bot(command_prefix='$', intents=discord.Intents.all())
+bot = commands.Bot(command_prefix='$', intents=discord.Intents.all())
 
+@bot.event
 @bot.event
 async def on_ready():
     print(f'We have logged in as {bot.user}')
@@ -104,8 +108,10 @@ async def on_message(message):
     async def msg(content):
         await message.channel.send(content)
     if message.author == bot.user:
+    if message.author == bot.user:
         return
 
+    if str(message.content).casefold().startswith('say') and message.author.id == 867261583871836161:
     if str(message.content).casefold().startswith('say') and message.author.id == 867261583871836161:
         tosend = ''
         for x in range(1, (len((message.content).split())-1) + 1):
